@@ -8,5 +8,6 @@ end
 
 def position_taken?(borad, index)
   
+  
 end
   
