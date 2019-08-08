@@ -6,8 +6,11 @@ def valid_move?(board, index)
    end
 end 
 
-def position_taken?(borad, index)
-  
+def position_taken?(board, index)
+   if board [index] == " " 
+     return false
+   end
+     return true
   
 end
   
