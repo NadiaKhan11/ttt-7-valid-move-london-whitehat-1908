@@ -4,7 +4,7 @@ def valid_move?(board, index)
    end
 end
 
-def position_taken?(borad_index)
+def position_taken?(borad, index)
   
 end
   
