@@ -6,3 +6,5 @@ end
 
 def position_taken?(position_taken?)
   
+end
+  
